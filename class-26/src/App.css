@@ -25,13 +25,18 @@ button:hover{
   transform: scale(1.05);
   transition: 900ms;
 }
+div{
+  margin: 2%;
+  background-image: url(https://i.ya-webdesign.com/images/transparent-bg-animated-gif-12.gif);
+  background-repeat: no-repeat;
+ }
 
 h3{
   text-align: center;
   width: 15%;
   border-radius: 15%;
   margin: 5%;
-  margin-left: 35pc;
+  margin-left: 32pc;
   background-color: teal;
   border: white solid;
   padding: 2%;
