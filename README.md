@@ -6,4 +6,4 @@
 
 
 ## UML
- ![alt text](assest/lab-26.jpg)
+ white board : ![alt text](class-26/assest/lab-26.jpg)
